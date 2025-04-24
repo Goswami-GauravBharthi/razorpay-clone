@@ -2,6 +2,8 @@
 <br>
 Razorpay Clone (Tailwind CSS)
 
+https://razorpaygaurav.netlify.app/#
+
 A fully responsive Razorpay landing page clone built using pure Tailwind CSS. This project replicates the look and feel of Razorpay's official homepage with clean UI components and mobile-friendly layouts. No external CSS frameworks or JavaScript libraries were used.
 
 Features
